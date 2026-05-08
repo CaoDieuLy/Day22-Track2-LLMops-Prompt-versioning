@@ -7,10 +7,13 @@ Generated:
 - `04_pii_demo_log.txt`: custom Guardrails PII validator demo.
 - `04_json_demo_log.txt`: custom Guardrails JSON repair validator demo.
 
-Remaining screenshots to add manually:
+Screenshots:
 - `01_langsmith_traces.png`
 - `02_prompt_hub.png`
 - `03_ragas_scores.png`
+
+LangSmith project:
+https://smith.langchain.com/o/a4dd2626-adc1-4d32-8c6b-de816f984721/projects/p/8b144965-96ba-4a76-a605-86cb9ca086a6
 
 RAGAS summary:
 - V1 faithfulness: 0.8921

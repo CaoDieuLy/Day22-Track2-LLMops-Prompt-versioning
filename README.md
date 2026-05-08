@@ -1,5 +1,18 @@
 # 🧪 Day 22 Lab — LangSmith + Prompt Versioning
 
+## Submission Links
+
+- GitHub repository: https://github.com/CaoDieuLy/Day22-Track2-LLMops-Prompt-versioning
+- LangSmith project: https://smith.langchain.com/o/a4dd2626-adc1-4d32-8c6b-de816f984721/projects/p/8b144965-96ba-4a76-a605-86cb9ca086a6
+- Evidence folder: [`evidence/`](evidence/)
+
+## Results Summary
+
+- Step 1: LangSmith RAG traces captured.
+- Step 2: Prompt Hub contains `day22-rag-prompt-v1` and `day22-rag-prompt-v2`; A/B routing log saved.
+- Step 3: RAGAS target met with V1 faithfulness `0.8921`.
+- Step 4: Guardrails PII and JSON validator logs saved.
+
 ## Overview
 
 In this lab you will build a **production-grade RAG (Retrieval-Augmented Generation) pipeline** and instrument it end-to-end using **LangSmith** for observability, **Prompt Hub** for versioned prompt management, **RAGAS** for automated evaluation, and **Guardrails AI** for output safety.
