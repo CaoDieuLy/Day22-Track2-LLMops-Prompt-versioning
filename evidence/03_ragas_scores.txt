@@ -1,0 +1,11 @@
+Step 3: RAGAS Evaluation Scores
+================================
+
+Comparison
+----------------------------------------------------------------------
+  faithfulness                  : V1=0.8921  V2=0.7401  winner=V1
+  answer_relevancy              : V1=0.8507  V2=0.7759  winner=V1
+  context_recall                : V1=1.0000  V2=1.0000  winner=V2
+  context_precision             : V1=0.9667  V2=0.9700  winner=V2
+
+Target met: faithfulness = 0.8921
